@@ -1,3 +1,5 @@
 # Team Project
 # Version 1.0
 # feature B implemented
+# Feature A implemented
+
