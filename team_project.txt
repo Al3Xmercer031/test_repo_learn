@@ -1,6 +1,5 @@
 # Team Project
 # Version 1.0
-# feature B implemented
+# Feature B implemented
 # Feature A implemented
-# Feature C implemented discard
-
+# Feature C implemented
