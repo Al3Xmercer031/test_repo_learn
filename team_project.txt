@@ -2,4 +2,5 @@
 # Version 1.0
 # feature B implemented
 # Feature A implemented
+# Feature C implemented
 
