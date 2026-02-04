@@ -2,4 +2,9 @@
 # Version 1.0
 # Feature B implemented
 # Feature A implemented
+<<<<<<< HEAD
 # Feature C implemented
+=======
+# Feature c implemented 
+# decide to add another commit in brach feature-a 
+>>>>>>> 4827663 (another commit in local)
